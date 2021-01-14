@@ -1,2 +1,2 @@
 # Document Summarization
-Project is being worked on since September 2020, updates will be posted when available.
+Project developed in collaboration with iABG - Munich for the Machine Learning and Intellignet Systems Course.
